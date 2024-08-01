@@ -10,8 +10,4 @@ function name3() {
     console.log("my git 1");
     
 }
-function name4() {
-    console.log("my git 1");
-    
-}
 
