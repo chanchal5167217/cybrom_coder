@@ -10,3 +10,4 @@ function func3() {
     console.table("hello");
     
 }
+hello welcome
