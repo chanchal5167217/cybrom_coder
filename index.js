@@ -10,7 +10,7 @@ function func3() {
     console.table("hello");
     
 }
-hello welcome
+hellowelcome
 ghjhjsd
 gsudusdu
 sdusis
